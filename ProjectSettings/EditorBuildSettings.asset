@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2476ce43d243d1740ba6ec3f1be74026
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 1.unity
+    guid: 6209e1b444a5f2344a97321f5dca9b29
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 2.unity
+    guid: 87152a2b770d6354e84ce47dc3f5db88
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 3.unity
+    guid: 73df3902f362ea748a1b81dddeb88e48
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 4.unity
+    guid: 9672d544b1715db458908d317bc56b8d
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 5.unity
+    guid: 3ea3c912454c3ee4591dd804f108aeb5
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 6.unity
+    guid: cce428f3f3171cd43905c23a603be334
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 7.unity
+    guid: 193e74d3e052bd44cac1e8f4a77dbccd
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 8.unity
+    guid: 10f1aa8260b7aa94f8226948356260f7
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 9.unity
+    guid: d3907bb7055df2c4fa3e82b1aba4e423
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 10.unity
+    guid: 3f1f3ff05a045924f8c74cab0f290f49
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 11.unity
+    guid: 863835f4b5288b242a5ad7035fd5c5bd
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 12.unity
+    guid: 8dbbd17207c118d45b8174c807d62fa8
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 13.unity
+    guid: 43ad68e325d1e184aa42c28134538d4c
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 14.unity
+    guid: 545e5c79ab711db449e7fbcd9a00afd7
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 15.unity
+    guid: c3b1dda9edee2b74684045a651678ca5
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 16.unity
+    guid: efc290e4632398f4a9d73fa6149536e2
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 17.unity
+    guid: bb2771078ddb16246a3f8c8998f7c82f
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 18.unity
+    guid: c5c2584c90c7d5e449483789fb137ee4
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 19.unity
+    guid: 4d78b545dff03874ead56853b927b9c7
+  - enabled: 1
+    path: Assets/Games/MultipleChoice/MultipleChoice 20.unity
+    guid: d198cc1dc06f5a148bca829d5dd4683b
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 1.unity
+    guid: 440589e8049476e459f2d7f6f230b9c0
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 2.unity
+    guid: 0e7de548a5f3e8e47910b09f3f487bbf
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 3.unity
+    guid: bc166027e0f3b5a4bb452b8996fa61d2
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 4.unity
+    guid: cdccb4477bc629743b2a0cda26ee410c
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 5.unity
+    guid: 4c5d95da7e1b4704ab40ce471658069f
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 6.unity
+    guid: 6a74b56cd77428b449e126a3e1420698
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 7.unity
+    guid: 5dd912c57219ae246848654a20e7d00e
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 8.unity
+    guid: 0067cec4f13cc734dac40c6599ba7049
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 9.unity
+    guid: 92066a9bc90d3a34aa099702838341d7
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 10.unity
+    guid: 0c78586a58c00ee49b6dca61d25978ba
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 11.unity
+    guid: 5c705d7c478084147af80eb8a92fcdae
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 12.unity
+    guid: a591bb8bd01c26e47b38ec6b96084ac4
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 13.unity
+    guid: 80caef4db094c6b49a2aa61fb975c0ff
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 14.unity
+    guid: 6876b285e87796348902bd4e0d7b119d
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 15.unity
+    guid: 0e8458609f2783e45b08e23c832d3c9a
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 16.unity
+    guid: 11a552199df5a2b4cbbd53d1281f5941
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 17.unity
+    guid: 571436530e0184d4fb26eaaa3cf05dc4
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 18.unity
+    guid: 01c4e2feecf95144aa060bb8e8f72a5e
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 19.unity
+    guid: 84cb99074014e5b4596720c3755aa549
+  - enabled: 1
+    path: Assets/Games/WfMultipeChoice/WFMultipleChoice 20.unity
+    guid: 592e57748a169de46af9a58de4c89591
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 1.unity
+    guid: e3b5af7372913c2498f37f730d4eebf2
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 2.unity
+    guid: 6c8af7813d53fb547a9be0052902b074
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 3.unity
+    guid: ee120d88f08a8684797ddf0f925fdc7f
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 4.unity
+    guid: a926d95e536a69d428eeba27b0a77bc0
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 5.unity
+    guid: b27455933e32efd4998e0d7d04a62fd4
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 6.unity
+    guid: 2690cb0a8c522af4496fa63ab4de419f
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 7.unity
+    guid: 3d6aca29605bc774a961ac7c83ab63e7
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 8.unity
+    guid: 461a0a50620da0643b0a79a64395721d
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 9.unity
+    guid: 1f28e3b8237682f469d5f99d6bfef5bb
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 10.unity
+    guid: 0c44cfe2a47cc584abd6107b110b880e
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 11.unity
+    guid: 6e2475c8d3deb2344969b6a00af6cfac
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 12.unity
+    guid: 81f1d922b3d6bba4ebd4fbcd9d46f82a
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 13.unity
+    guid: 20ddc1df4ac623f47b3390479cbd5bf2
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 14.unity
+    guid: 37b596acf1a9fde4f800292936463e37
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 15.unity
+    guid: ded22c0e2aa5a824593986a9f56b24a4
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 16.unity
+    guid: ff1189a6281618045bcb0971cb344819
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 17.unity
+    guid: d6f6407df0a46a64bb1825c93f3457ad
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 18.unity
+    guid: f68cb2086a11c3a44a617f33dbecc5bc
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 19.unity
+    guid: 45f53f09ec48141478d8e636f425200c
+  - enabled: 1
+    path: Assets/Games/SenMultipleChoice/Sentences 20.unity
+    guid: 8bb3cddc0e5d74b47821dea2a31799d3
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 1.unity
+    guid: af6d7bb8e70f4594bb7402140251d99f
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 2.unity
+    guid: eef16ebdc8f0d6447b37bd235bd597b2
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 3.unity
+    guid: 312115b1e7d6a264aa4d86656156f623
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 4.unity
+    guid: f6cc00697abe5a64b9981192aa331ddb
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 5.unity
+    guid: dec3bc6fdcf773c43a83f2c158f874df
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 6.unity
+    guid: 67cf670ae736b484e9c7e988578bd5e6
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 7.unity
+    guid: 313bed2b3e176ed4b92f4dd08d1841ee
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 8.unity
+    guid: 5b36649543d5d51488be9045a2a0558f
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 9.unity
+    guid: 2ad2cbdb3de1cb04184f01a4c140ab8a
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 10.unity
+    guid: 57524fe87750a6943aaabe00fbf286bf
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 11.unity
+    guid: 4e9b3583da42dbc47bc482528bc72bbe
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 12.unity
+    guid: 19bc7957182a5524996acec07155c211
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 13.unity
+    guid: a150b5285bc2a5b458b58972240825e4
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 14.unity
+    guid: 52113c4eebd730840a768117cda42dad
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 15.unity
+    guid: 87fdace2338a57c48bf528b3e72e0c1a
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 16.unity
+    guid: 4ab13ecb26ce1ae4cb00061aeb7b723b
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 17.unity
+    guid: 842b099dc8d698047b56e7cead0b2a32
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 18.unity
+    guid: d697310250acf634489dcdf55e3592c2
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 19.unity
+    guid: 2382b7dd565206d4894732265470502a
+  - enabled: 1
+    path: Assets/Games/Writing/Writing 20.unity
+    guid: cf2ecc591dc3871499dde2a2887d4c18
+  - enabled: 1
+    path: Assets/Levels/Level 1.unity
+    guid: 0ffacd7c4bfa961479520cbab6e1e1d5
+  - enabled: 1
+    path: Assets/Levels/Level 2.unity
+    guid: 87f3c1a83e353d945b2bbd81fc9d3861
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: d1f1754b99aee5946acc5d8e0a7339ec
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: e4421c835b2c2684f9d4d6b88a9f815f
+  - enabled: 1
+    path: Assets/Levels/Level 5.unity
+    guid: d9bce563fac1ce54db16f00ebd911dc2
+  - enabled: 1
+    path: Assets/Levels/Level 6.unity
+    guid: e6782707ff3483e4c80c5c0c993acca7
+  - enabled: 1
+    path: Assets/Levels/Level 7.unity
+    guid: 4472df1f75a7bd64db7f9d88f2737ece
+  - enabled: 1
+    path: Assets/Levels/Level 8.unity
+    guid: 1fdca4bdb01d70c44a70ba1df124d9b4
+  - enabled: 1
+    path: Assets/Levels/Level 9.unity
+    guid: 388193a98bbcdec4b86220dd9b01d47a
+  - enabled: 1
+    path: Assets/Levels/Level 10.unity
+    guid: 7179ee6879350a04cb7b32c5a14a4933
+  - enabled: 1
+    path: Assets/Levels/Level 11.unity
+    guid: ed92df7e0aaee9344acbe77e05ccfbf8
+  - enabled: 1
+    path: Assets/Levels/Level 12.unity
+    guid: 4e823c3ada8a4804aafd58cccdebc806
+  - enabled: 1
+    path: Assets/Levels/Level 13.unity
+    guid: 2d2dc541d3d4f424fb4d6c5a785cf9ee
+  - enabled: 1
+    path: Assets/Levels/Level 14.unity
+    guid: fe945a56f8f78ad448ee2ed0efe5b542
+  - enabled: 1
+    path: Assets/Levels/Level 15.unity
+    guid: 4e762ed3fb01a724ba9e1668741e1d52
+  - enabled: 1
+    path: Assets/Levels/Level 16.unity
+    guid: e0d4dcf3374532e4884d99e5a8dbd2aa
+  - enabled: 1
+    path: Assets/Levels/Level 17.unity
+    guid: 02f18189d9b3d13479fe1725223c2e8d
+  - enabled: 1
+    path: Assets/Levels/Level 18.unity
+    guid: ec851a96888e4d846ba188595b2a54ec
+  - enabled: 1
+    path: Assets/Levels/Level 19.unity
+    guid: 78891356bb85d2044ad86825c21e417c
+  - enabled: 1
+    path: Assets/Levels/Level 20.unity
+    guid: cf56b46c49cf53e46ad065646a2152bb
+  m_configObjects: {}
